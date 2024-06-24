@@ -5,10 +5,17 @@ Lists the courses I successfully completed during my university years, as well a
 ## MacEwan University (Mathematics and Computing Science)
 
 <details>
-  <summary> Semseter I</summary>
+  <summary> Year I</summary>
   <ul>
-    <li> Linear Algebra (MATH-125) </li>
-    
+    <li> Linear Algebra (MATH-120) </li>
+    <li> Elementary Calculus I (MATH-114) </li>
+    <li> Computing II (CMPT-103) </li>
+    <li> Procedural Programming (CMPT-200) </li>
+    <li> Linear Algebra (MATH-120) </li>
+    <li> Linear Algebra (MATH-120) </li>
+    <li> Linear Algebra (MATH-120) </li>
+    <li> Linear Algebra (MATH-120) </li>
+    <li> Linear Algebra (MATH-120) </li>
   </ul>
 </details>
 
