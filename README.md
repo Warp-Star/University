@@ -15,7 +15,7 @@ Lists the courses I successfully completed during my university years, as well a
     <li> Linear Algebra (MATH-120) </li>
     <li> Linear Algebra (MATH-120) </li>
     <li> Linear Algebra (MATH-120) </li>
-    <li> Linear Algebra (MATH-120) </li>
+    <li> Lineawf </li>
   </ul>
 </details>
 
